@@ -1,29 +1,25 @@
-# sea-201d1
-Course repo for sea-201d1, with instructors Sam Hamm and Scott Schmidt (Oct/Nov 2015)
+# sea-201d2
+Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 2015)
 
-##Week 1
-
-###10/26
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976260)
-
-[Code Assignment](https://canvas.instructure.com/courses/975041/assignments/3976278)
-
-###10/27
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976261)
-
-[Code Assignment](https://canvas.instructure.com/courses/975041/assignments/3976281)
-
-###10/28
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976262)
-
-[Code Assignment](https://canvas.instructure.com/courses/975041/assignments/3976270)
-
-###10/29
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976259)
-
-[Code Assignment](https://canvas.instructure.com/courses/975041/assignments/3976286)
-
-###10/30
-[Reading Assignment](https://canvas.instructure.com/courses/975041/assignments/3976258)
-
-Code Assignment
+## Week 1
+- #### Monday:
+  - HTML Structure
+  - JavaScript variables, prompts, alerts, If statements
+  - User Tools: Terminal, Atom, Chrome
+- #### Tuesday:
+  - HTML paragraphs, headings, line breaks
+  - JavaScript statements, comments, variables, data types, arrays, expressions, operators (arithmetic and string)
+  - Git basics / Github intro
+- #### Wednesday:
+  - HTML lists
+  - JavaScript: Control flow
+  - Git Branches
+- #### Thursday:
+  - HTML links
+  - CSS boxes, basic selectors, property:value relationship
+  - JavaScript Functions and Methods
+  - Git Pair Programming (GitHub Forking)
+- #### Friday:
+  - HTML Images
+  - CSS Colors
+  - GitHub Pages Deployment
