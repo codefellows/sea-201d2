@@ -1,0 +1,13 @@
+1. How does HTML tell JS where content needs to go?
+
+id attributes
+
+
+2. How does JS know where to put content?
+
+var ans1 = document.getElementById('answer1');
+
+
+3. How does JS actually populate the HTML?
+
+ans2.innerHTML = 'You are correct! Sam does not have a lizard!';

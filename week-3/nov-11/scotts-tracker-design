@@ -1,0 +1,42 @@
+var data = [...] --- this is the data for the chart
+
+var images = [] --- empty array to hold images objects
+
+var files = [...] --- array of filenames
+
+function Photo(name, path) --- constructor for photo objects
+
+function buildPhoto() --- turns filenames into new image objects
+
+
+
+----------tracker_object----------
+
+var tracker = {...} --- object that manages the behaviors of the user interaction
+
+    tracker.left: empty string to hold image object
+    tracker.right: empty string to hold image object
+
+    tracker.leftImageEl: DOM location
+    tracker.rightImageEl: DOM location
+
+    tracker.getRandomNum() --- generates a random number between 0 and images.length
+
+    tracker.getRandomImg() --- displays two random images and prevents duplicates
+
+    tracker.vote(id) --- checks which image was clicked against the names in the 'images' array and then increments the vote tally on the image that received a click, and pushes the new tally to the data array used by the chart
+
+----------end_tracker_object----------
+
+
+
+var ctx = DOM location for chart
+
+var chart = new Chart --- creates chart and assigns options
+
+var mainContent = DOM element where images and chart live
+
+mainContent.addEventListener() --- handles click events on the DOM and does the following:
+ * calls tracker.vote(id)
+ * calls tracker.getRandomImg()
+ * calls chart.update()

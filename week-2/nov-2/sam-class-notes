@@ -1,0 +1,27 @@
+Math.floor(Math.random() * (max - min + 1)) + min;
+
+Min: 20
+Max: 50
+
+Max - min = 30
+
+Math.random() * 31
+
+Gives a number between 0 and 30.999999
+
+Math.floor() turns that into "between 0 and 30"
+
+Add that to our minimum to get a value between 20 and 50
+
++++++++++++++++++++++++++++++++++++++++++
+
+var hotel = {};
+
+hotel.name = 'Park';
+hotel.rooms = 99;
+
+hotel.breakfast = function() {
+  var sausage;
+  var waffles;
+  return sausage + waffles;
+};

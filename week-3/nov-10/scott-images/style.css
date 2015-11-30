@@ -1,0 +1,21 @@
+img.i {
+  property: value;
+}
+
+section {
+  background-image: url('imgs/1.jpg');
+  background: #baddab url('img/img.jpg') no-repeat center 
+}
+
+  
+/*
+ Shorthand:
+    * 1: background-color
+    * 2: background-image
+    * 3: background-repeat
+    * 4: background-attachment 
+    * 5: background-position
+
+        body {
+          background: #baddab url('img/img.jpg') no-repeat center 
+        }*/
