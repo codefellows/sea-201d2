@@ -30,7 +30,7 @@
 [Atom.io Website](http://atom.io)
 
 #### Packages to install:
-- #### Name (author)
+#### - Name (author)
 - Open-in-browser (magbicaleman)
 - Minimap (atom-minimap)
 - Highlight-selected (richrace)
