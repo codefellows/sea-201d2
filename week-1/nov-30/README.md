@@ -22,5 +22,20 @@ Ch.1: “Structure” (p.12; 28 pages)
 
 (There is a download button on each page.)
 
-### Slides from Introduction Lab
-[Canvas Link]() (need to add link)
+
+### Today's plan
+
+#### Morning Lab
+1. Review Intro Slides
+2. Student and Staff Introductions
+3. Overview of Code Fellows and Course
+
+#### Afternoon Lecture
+1. Terminal and Editor setup
+  - Atom Editor
+  - Terminal Prompt w/ Git status
+2. Basic navigation and commands for Terminal
+  - [Examples and shortcuts here](toolbelt/README.md)
+3. Basic HTML and JavaScript
+  - Prompts and Alerts
+  - Variable assignments
