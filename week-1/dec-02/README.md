@@ -16,6 +16,7 @@ Sam: separate JS and HTML files [10 min]
 Sam: HTML links and Lists, leading to 'about me' page [30 min]
 
 -- BREAK --
+
 Scott: Atom packages [10 min]
 - Open-in-browser `apm install open-in-browser`
 - Minimap `apm install minimap`
