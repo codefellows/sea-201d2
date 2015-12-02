@@ -10,8 +10,13 @@ Ch.3: “Lists” (p.62; 12 pages) in the HTML & CSS book.
 ##TODAY'S PLAN
 
 Sam: wrap up JS fundamentals inc. arrays [40 min]
+
 Sam: separate JS and HTML files [10 min]
+
 Sam: HTML links and Lists, leading to 'about me' page [30 min]
+
 -- BREAK --
+
 Scott: control flow (for & while) [60 min]
+
 Scott: intro to GitHub branches [30 min]
