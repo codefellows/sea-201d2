@@ -23,6 +23,8 @@ Scott: Atom packages [10 min]
 - Highlight-selected `apm install highlight-selected`
 - Emmet `apm install emmet`
 
+OR to install all at once: `apm install open-in-browser minimap highlight-selected emmet`
+
 Scott: control flow (for & while) [60 min]
 
 Scott: intro to GitHub branches [30 min]
