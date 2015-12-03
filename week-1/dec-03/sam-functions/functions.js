@@ -42,10 +42,10 @@ function clue(who, where, weapon) {
 
 // Note that we can also pass in the values of externally declared variables when the function is called:
 
-var murderer = 'Colonel Mustard';
-var crimeScene = 'library';
-var toolOfDeath = 'candlestick';
-
+// var murderer = 'Colonel Mustard';
+// var crimeScene = 'library';
+// var toolOfDeath = 'candlestick';
+//
 // clue(murderer, crimeScene, toolOfDeath);
 
 // ++++++++++++++++++++++++++++++++++++++++
@@ -57,10 +57,10 @@ var toolOfDeath = 'candlestick';
 function mathsAreHard(numOne, numTwo, numThree) {
   console.log('numOne is ' + numOne);
   console.log('numTwo is ' + numTwo);
-  console.log('numThree is ' + numThree);
-  var sum = numOne + numTwo + numThree;
-  console.log('The sum of these numbers is ' + sum);
-  return sum;
+  // console.log('numThree is ' + numThree);
+  // var sum = numOne + numTwo + numThree;
+  // console.log('The sum of these numbers is ' + sum);
+  // return sum;
 }
 
 // mathsAreHard(2, 5, 9);
@@ -76,7 +76,6 @@ function mathsGetHarder(numOne, numTwo, numThree) {
   var oneTimesTwo = numOne * numTwo;
   var twoOverThree = numTwo / numThree;
   var sum = numOne + numTwo + numThree;
-  console.log('The sum of these numbers is ' + sum);
   var results = [sum, oneTimesTwo, twoOverThree];
   return results;
   // return [sum, oneTimesTwo, twoOverThree];
