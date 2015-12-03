@@ -13,9 +13,15 @@ Ch.10: “Introducing CSS” (p.226; 20 pages) in the HTML & CSS book.
 # THURSDAY CLASS
 
 Sam: move the game into functions [45 min]
+
 Sam: move the game into the DOM [45 min]
+
 -- BREAK --
+
 Scott: CSS intro [30 min]
+
 Scott: add images to the 'about' page [10 min]
+
 Scott: add color to the 'game' answers w CSS [20 min]
+
 Scott: deployment w GH pages [10 min]
