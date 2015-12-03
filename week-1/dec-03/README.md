@@ -12,9 +12,12 @@ Ch.10: “Introducing CSS” (p.226; 20 pages) in the HTML & CSS book.
 
 # THURSDAY CLASS
 
+
+Sam: HTML links [15 min]
+
 Sam: move the game into functions [45 min]
 
-Sam: move the game into the DOM [45 min]
+Sam: move the game into the DOM [30 min]
 
 -- BREAK --
 
