@@ -19,7 +19,6 @@ Sam: move the game into functions [45 min]
 
 Sam: move the game into the DOM [30 min]
 
-
 -- BREAK --
 
 Scott: CSS intro [30 min]
@@ -28,4 +27,4 @@ Scott: add images to the 'about' page [10 min]
 
 Scott: add color to the 'game' answers w CSS [20 min]
 
-Scott: deployment w GH Pages [10 min]
+Scott: deployment w/ GH pages [10 min]
