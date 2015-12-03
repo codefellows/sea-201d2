@@ -24,4 +24,4 @@ Scott: add images to the 'about' page [10 min]
 
 Scott: add color to the 'game' answers w CSS [20 min]
 
-Scott: deployment w GH pages [10 min]
+Scott: deployment w/ GH pages [10 min]

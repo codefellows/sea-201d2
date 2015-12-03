@@ -1,0 +1,18 @@
+/* SELECTORS */
+* {property: value;}
+
+h1 {property: value;}
+
+p, li {property: value;}
+
+ul > li {property: value;}
+
+#id {property: value;}
+
+.class {property: value;}
+
+a:link {property: value;}
+
+a:visited {property: value;}
+
+button:hover {property: value;}
