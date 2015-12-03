@@ -24,7 +24,7 @@ while (typeof user !== typeof answer && user !== answer) {
   user = parseInt(prompt('Guess again.'));
 }
 
-// for (start, stop, step) {}
+// for (start; stop; step) {}
 var arr = [1, 'Dave', true, 'blue', 'sam'];
 
 for (var i = 0; i < arr.length; i++) {
