@@ -1,8 +1,26 @@
 // if(conditional) {} else {}
+var x = 0;
+var y = 0;
+if (x === y) {
+  console.log('X DOES equal Y!!');
+} else {
+  console.log('You lied to me!!');
+}
 
+if (x > y || x === Y) {
+  console.log('I will run if either is true!');
+} else {
+  console.log('I failed because either is false.');
+}
 
 // if(conditional) {} else if (conditional) {} else {}
-
+if (x === y) {
+  alert('Magic!');
+} else if (x !== y) {
+  alert('Mystery!!');
+} else {
+  alert('Mayhem!');
+}
 
 // do {} while (conditional)
 var value = 'yes';
