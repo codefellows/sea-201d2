@@ -16,6 +16,8 @@ Plus: discussion on some  topics arising from lab:
 
 #### -- BREAK --
 
+### Scott: Images [15 min]
+
 ### Scott: Object literals [30 min]
 
 ### Sam: Cookie stand intro [20 min]
