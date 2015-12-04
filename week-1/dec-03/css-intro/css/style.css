@@ -1,5 +1,7 @@
 /* SELECTORS */
-* {property: value;}
+* {
+  property: value;
+}
 
 h1 {property: value;}
 
@@ -16,3 +18,11 @@ a:link {property: value;}
 a:visited {property: value;}
 
 button:hover {property: value;}
+
+.right {
+  color: green;
+}
+
+.wrong {
+  color: red;
+}
