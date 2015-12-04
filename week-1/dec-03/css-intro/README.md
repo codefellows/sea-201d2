@@ -23,16 +23,3 @@
 ## COLOR BASICS
 1. RGB(a) vs Hex vs Color Name
 2. Color pickers / Pallette tools
-
-
-## IMAGES BASICS
-1. Why use images
-2. Types and size of images: PNG, JPEG, GIF
-3. Image tags: src, alt, title attribs
-    Figure and Figcaption tags
-4. Inline Sizing
-5. Editing tools:
-    - www.photoshop.com
-    - www.pixlr.com
-    - www.splashup.com
-    - www.ipiccy.com
