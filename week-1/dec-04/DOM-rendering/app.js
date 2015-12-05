@@ -23,11 +23,7 @@ function renderMonths() {
 // renderMonths();
 
 
-
-
-
-
-
+//  THE CODE BELOW IS EXAMPLE PSEUDOCODE FOR THE ASSIGNMENT
 
 // // An array of hours for your stores
 // var hours = [];

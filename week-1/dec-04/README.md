@@ -6,12 +6,12 @@
 ### Code Review (w lots of student reading of teh codez [60-90 min])
 
 Plus: discussion on some  topics arising from lab:
-* Placement of script tag in HTML
-* Increment operators & usage
-* Classes vs. style attribute for coloring text with JS
-* Use of console.logs as a way to inspect behavior inside of functions because of scope
-* WTF is DOM? You guys keep mentioning it.
-* There are two hard things in computer science: naming things, cache invalidation, and off-by-one errors
+<!-- * Placement of script tag in HTML -->
+<!-- * Increment operators & usage -->
+<!-- * Classes vs. style attribute for coloring text with JS -->
+<!-- * Use of console.logs as a way to inspect behavior inside of functions because of scope -->
+<!-- * WTF is DOM? You guys keep mentioning it. -->
+<!-- * There are two hard things in computer science: naming things, cache invalidation, and off-by-one errors -->
 * Open in Browser, or open from command line, and CMD-R
 
 #### -- BREAK --
