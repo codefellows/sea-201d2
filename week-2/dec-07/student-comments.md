@@ -28,7 +28,7 @@ I feel the pace of it is least helpful. It is a lot to take in at once which was
 
 ---
 
-## Questions, Suggestions, Concerns...
+### Questions, Suggestions, Concerns...
 
 It would be more helpful if the labs were after lectures. Doing it like this - i spend more time working on the assignments/after lectures and during labs. Personally, I learn by putting things what I just read into practice and trying to connect that. Having that slow start in the morning, waiting for your brain to wake up is making learning process less efficient. Hopefully 301 won't be scheduled like this.
 
