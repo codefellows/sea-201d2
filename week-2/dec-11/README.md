@@ -7,10 +7,14 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 ##TODAY'S PLAN
 
-1. Announcements, code review, & Q&A (Sam, Scott, Kevin, whoever)
-  * First... questions re: 301
+1. Announcements, code review, & Q&A [90 min]
   * Project Week starts in a week! Ermagehrd!!!
-  * Code review:
-      * Show off your stuff!
-      * Tell us about your thought process in making it!
-      * Are there any easter eggs?
+
+###Break
+
+2. Intro Vote Tracker Assignment [90 min]
+  - Problem Domain
+  - Review images (sizing, quality, etc.)
+  - Photo & Tracker Objects
+  - Get random photos on screen (without dupes)
+  - Track votes for each photo object (optional / stretch)
