@@ -2,7 +2,7 @@
 
 ### Helpful...
 
-1- I really love how teacher and TAs helped students one by one to understand the concepts. 2- There is class schedule on gitHub, etc. 3- They are always available ( online on slack, etc)
+1- I really love how teachers and TAs helped students one by one to understand the concepts. 2- There is the class schedule on GitHub, etc. 3- They are always available ( online on Slack, etc)
 
 It would help it the lectures were before labs.
 
