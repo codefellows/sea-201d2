@@ -1,5 +1,5 @@
 // This is an empty Object; Defined by the 'curly braces' in Javascript
-var cat = {};
+var cat = {}; // This is the preferred method to create an object.
 // OR
 var bunny = new Object();
 
@@ -25,12 +25,12 @@ var turtle = {
   color: 'green',
   mutant: 'yes',
   ninja: true,
-  pizzaLevel: Math.random(),
+  pizzaLevel: Math.random() * 10,
 
   eat: function(hunger) {
-    if (hunger < 4) {
+    if (hunger <= 4) {
       console.log('It\'s cool brah, I only at half the pizza!');
-    } else if (hunger > 3 && hunger < 8) {
+    } else if (hunger > 4 && hunger < 8) {
       console.log('Totally Bodacious! I\'m starved!!');
     } else {
       console.log('MMMM-NOM-NOM-NOM');

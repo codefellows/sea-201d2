@@ -7,6 +7,7 @@
 ### Code Review (w lots of student reading of teh codez [60-90 min])
 
 Plus: discussion on some  topics arising from lab:
+
 * Placement of script tag in HTML
 * Increment operators & usage
 * Classes vs. style attribute for coloring text with JS
