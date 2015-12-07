@@ -17,8 +17,8 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 ###BREAK
 
-4. Scott: The DOM [30 min]
+4. Scott: The DOM [20 min]
 
-5. Scott: Problem Domain [20 min]
+5. Scott: Problem Domain [10 min]
 
-6. Scott: Tables & Examples [30 min]
+6. Scott: Tables & Examples [20 min]

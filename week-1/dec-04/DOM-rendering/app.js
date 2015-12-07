@@ -20,7 +20,8 @@ function renderMonths() {
   monthsEl.appendChild(ulEl);
 }
 // Call the renderMonths function
-// renderMonths();
+renderMonths();
+
 
 
 //  THE CODE BELOW IS EXAMPLE PSEUDOCODE FOR THE ASSIGNMENT
