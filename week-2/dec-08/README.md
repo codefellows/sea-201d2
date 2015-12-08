@@ -8,10 +8,11 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 ##TODAY'S PLAN
 
-1. Code review & Q&A [60 min]
-  * https://dantronics.files.wordpress.com/2013/09/messages-image409263017.png
+1. What's next? 301? Then 401? Lindy is here for you!
 
-2. Sam: Events [30 min]
+2. Code review & Q&A [60 min]
+
+3. Sam: Events [30 min]
 
 ###BREAK
 

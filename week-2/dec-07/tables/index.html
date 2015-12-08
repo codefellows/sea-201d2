@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Tables Demo</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <!-- <div class='header'></div>
@@ -15,12 +16,14 @@
     <table>
       <!-- Thead, Tbody, and TFoot ARE NOT required to build a table; They're semantic tags for readers and crawlers -->
       <!-- This is an example of how to build a table manually -->
-      <tr>
-        <th></th>
-        <th>Weight</th>
-        <th>Age</th>
-        <th>Height</th>
-      </tr>
+      <thead id='tHead'>
+        <tr>
+          <th></th>
+          <th>Weight</th>
+          <th>Age</th>
+          <th>Height</th>
+        </tr>
+      </thead>
       <tr>
         <th>Scott</th>
         <td>165</td>
