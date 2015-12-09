@@ -5,23 +5,34 @@
     <title>Form Demo</title>
   </head>
   <body>
+    <form id="">
+      <input type="text" name="name">
+      <input type="password" name="password">
+      <input type="button" name="submit" value="Submit">
+    </form>
 
     <form id="user-form">
       <fieldset>
         <legend>User Information</legend>
+        <!-- The 'for' attrib in the label matches to the 'id' of the input. -->
+        <!-- This allows your input to be outside the label and still be associated. -->
         <label for="first-name">First Name:</label>
-        <input id="first-name" type="text" placeholder="First Name">
+        <input id="first_name" name='first_name' type="text" placeholder="First Name">
 
-        <label>Last Name:<input id="last-name" type="text" placeholder='Last Name'></label>
+        <!-- The input can also be placed inside the label, and will not need a 'for' attrib. -->
+        <label>Last Name:<input id="last_name" name='last_name' type="text" placeholder='Last Name'></label>
         <label>Bio:<textarea></textarea></label>
+
         <input id="user-submit" type="submit" value="Submit">
+        <!-- Remember that buttons and inputs (with type='submit') are doing the same thing on a basic level -->
+        <!-- <button type='submit'>Submit</button> -->
       </fieldset>
     </form>
 
     <form id='data-form'>
       <fieldset>
         <legend>Data Dropdown</legend>
-        <label>Choose a browser from this list:<input list="browsers" name="myBrowser" /></label>
+        <label>Browser:<input list="browsers" name="myBrowser" /></label>
         <datalist id="browsers">
           <option value="Chrome">
           <option value="Firefox">
@@ -32,7 +43,6 @@
         <input id="drop-submit" type="submit" value="Submit">
       </fieldset>
     </form>
-
     <script src='app.js'></script>
   </body>
 </html>

@@ -1,0 +1,42 @@
+header * {
+  border: 1px dotted black;
+}
+
+section * {
+  border: 1px dashed orange;
+}
+
+footer * {
+  border: 1px dotted green;
+}
+
+nav li {
+  list-style: none;
+  display: inline;
+  text-align: center;
+  text-decoration: underline;
+  color: blue;
+}
+
+ul {
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: space-between;
+}
+
+.items {
+  flex: 0 1 auto;
+  /*flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;*/
+}
+
+li.items {
+  flex: 1 0 auto;
+}
