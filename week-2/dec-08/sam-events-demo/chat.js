@@ -2,13 +2,12 @@
 var Comment  = function(userName, text) {
   this.userName = userName;
   this.text = text;
-
 };
 
 Comment.prototype.render = function() {
-  var li = document.createElement('li');
-  li.innerHTML = '<img width="100px" src="img/' + this.userName + '.jpg"> <b>' + this.userName + ': </b><em>' + this.text + '</em></p>';
-  return li;
+  var liEl = document.createElement('li');
+  liEl.innerHTML = '<img width="100px" src="img/' + this.userName + '.jpg"> <b>' + this.userName + ': </b><em>' + this.text + '</em></p>';
+  return liEl;
 };
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -30,6 +29,7 @@ var renderAllComments = function() {
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
 // This function handles the submission of comments
 var handleCommentSubmit = function(event) {
+  console.log(event);
   event.preventDefault();
 
    if (!event.target.says.value || !event.target.who.value) {
@@ -39,7 +39,7 @@ var handleCommentSubmit = function(event) {
    var commenter = event.target.who.value;
    var remark = event.target.says.value;
 
-    if (commenter === 'Emily') {
+   if (commenter === 'Emily') {
     remark = 'YOLO SWAG 420!!!!';
    }
 
