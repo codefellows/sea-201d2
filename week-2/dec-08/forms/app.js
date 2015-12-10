@@ -2,6 +2,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms
 
 // User Form
+//TODO: Get this done
 
 // The below example is one of several ways to set up your events handlers:
 var userForm = document.getElementById('user-form');

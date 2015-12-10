@@ -8,12 +8,14 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 ##TODAY'S PLAN
 
-1. Code review + Q&A [60 min]
+### Reminder: Assignments that have been graded will also have comments. You can also resubmit anything less than full marks.
 
-2. Scott: CSS Layout [30 min]
+1. Code review + Q&A [30 min]
+
+2. Scott: flexbox [45 min]
 
 ###Break
 
-3. Scott: HTML5 [30 min]
+3. Scott: CSS Layout, Grids, & HTML5 [45 min]
 
 4. Sam: CSS Animations & Transforms [60 min]
