@@ -13,11 +13,16 @@ section {
     /*min-height: 500px;*/
     /*max-height: 500px;*/
 
-  margin: 2% auto;
-    /*margin-top: 2%;
-    margin-right: auto;
-    margin-bottom: 2%;
-    margin-left: auto;*/
+  margin: 2%;
+
+  /*margin: 2% auto;*/
+
+  /*margin: 2% 3% 4% 5%;*/
+
+  /*margin-top: 2%;
+  margin-right: auto;
+  margin-bottom: 2%;
+  margin-left: auto;*/
 
   padding: 2%;
     /*padding-top: 2%;
