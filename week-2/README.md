@@ -19,4 +19,4 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
   - CSS Animations & Transforms
 
 #### Friday:
-  - Intro Vote Tracker
+  - Intro Product Analysis

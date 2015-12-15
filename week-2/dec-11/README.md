@@ -12,9 +12,9 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 ###Break
 
-2. Intro Vote Tracker Assignment [90 min]
+2. Intro Product Analysis Assignment [90 min]
   - Problem Domain
   - Review images (sizing, quality, etc.)
-  - Photo & Tracker Objects
+  - Product & Ranker Objects
   - Get random photos on screen (without dupes)
-  - Track votes for each photo object (optional / stretch)
+  - Track votes for each photo object
