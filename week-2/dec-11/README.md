@@ -14,13 +14,10 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 2. CSS Animations
 
-###Break
 
-3. Code Review (Scott)
-
-4. Intro to the Market Analysis Assignment [90 min]
+3. Intro Product Analysis Assignment [90 min]
   - Problem Domain
   - Review images (sizing, quality, etc.)
-  - Photo & Tracker Objects
+  - Product & Ranker Objects
   - Get random photos on screen (without dupes)
-  - Track votes for each photo object (optional / stretch)
+  - Track votes for each photo object

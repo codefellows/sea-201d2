@@ -24,19 +24,23 @@ ul {
 
 .container {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
+  /*flex-direction: row;
+  flex-wrap: wrap;*/
   justify-content: center;
-  align-content: space-between;
+  align-items: space-between;
 }
 
 .items {
-  flex: 0 1 auto;
-  /*flex-grow: 0;
+  /*flex: 0 1 auto;*/
+  flex-grow: 0;
   flex-shrink: 1;
-  flex-basis: auto;*/
+  flex-basis: auto;
 }
 
 li.items {
   flex: 1 0 auto;
+  /*flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 25px;*/
 }
