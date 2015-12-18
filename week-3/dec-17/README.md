@@ -9,9 +9,9 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 1. Code review (Scott, then Scott/Sam)
 
-BREAK
+*BREAK*
 
-1. Project Pitches, Round 1
+Project Pitches, Round 1
 * (Trish) Duwamish recognition
 * (Patrick) Seattle poop map
 * (Rob) The Neutralize Obesity Method (NOM)
@@ -23,8 +23,8 @@ BREAK
 * (Trish) - Fine Print - Consumer advocacy
 * (Rob) - help parents find child-based park programs, etc.
 
-2. .gitignore
+.gitignore
 
-3. Discussion on code style, JS syntax, and 'use strict'
+Discussion on 'use strict'
 
-4. Discussion on tomorrow's lab assignment
+Discussion on tomorrow's lab assignment
