@@ -1,3 +1,7 @@
+'use strict';
+
+benton = 'wizard';
+
 var taValues = [34 ,67, 94, 93];
 
 var kevin = [
