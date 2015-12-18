@@ -7,7 +7,7 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 ### TODAY'S PLAN
 
-1. GitHub in teams (Sam, Scott, and Paul)
+1. Go over final project description; discuss GitHub in teams (Sam, Scott, and Paul)
 
 2. The easier of the possible possible harder ways to extend projects, such as Google Maps or Firebase
 
@@ -19,4 +19,4 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 2. Set Project teams
 
-3. OMGWTFBBQ CAN HAZ PROGEX PLZ K THX BYE!!!!!!
+3. OMGWTFBBQ CAN HAZ PROJEX PLZ K THX BYE!!!!!!
