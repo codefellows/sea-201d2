@@ -7,6 +7,7 @@ Course repo for sea-201d2, with instructors Sam Hamm and Scott Schmidt (Nov/Dec 
 
 ###TODAY'S PLAN
 
+Stuff for Patrick that I do not want
 
 1. GitHub in teams
 
